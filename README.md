@@ -1,4 +1,4 @@
-<h3 align="center">💖🎗️SPlRlT YT 🎗️💖</h3>
+<h3 align="center"> 🎗️SPlRlT YT 🎗️</h3>
 
 <div align="center">
 
