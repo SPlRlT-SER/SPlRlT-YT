@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Miss Helena By Rafi💖*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*SPlRlT YT By SPlRlT💖*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
