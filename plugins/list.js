@@ -364,7 +364,7 @@ Eg: .dict en_US;lead
 💖 Checks the update._ 
 
 🎗️ .update now
-💖 It makes updates._ 
+❤️ It makes updates._ 
 
 🎗️ .wallpaper
 💖 It sends high resolution wallpapers._ 
