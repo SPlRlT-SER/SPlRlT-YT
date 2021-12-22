@@ -128,7 +128,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Amalser/mention
 await message.client.sendMessage(message.jid, fs.readFileSync('./Amalser/ameenmention.webp'), MessageType.sticker, { mimetype: Mimetype.webp,quoted : message.data, ptt: false})
      }
        
-const array = ['SPlRlT','ff,','Nanban,'Hi,'vaa,'Bgm,'Ne,'Nee,'Hello,'thayoli,'Hlo,']
+const array = ['SPlRlT','ff,','Nanban,'Hi,'vaa,'Bgm,'Ne,'Nee,'Hello,'thayoli,'Hlo,'Kozhi,'erorr,']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
